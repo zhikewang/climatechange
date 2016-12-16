@@ -1,0 +1,8 @@
+{
+    "name": "USER INTERFACE",
+    "dependencies": {
+        "bootstrap": "",
+        "jquery-ui": "",
+        "font-awesome": ""
+    }
+}
